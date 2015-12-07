@@ -10,4 +10,4 @@ Select your platform target and click on Build. Select the location and save.
 
 ## Screenshot
 
-![EEGRotor VE](https://raw.githubusercontent.com/akshaybabloo/EEGRotor-VE/master/Assets/Screetshots/EEGRotor-VE.jpg)
+![EEGRotor VE](https://raw.githubusercontent.com/akshaybabloo/EEGRotor-VE/master/Assets/Screenshots/EEGRotor-VE.jpg)
