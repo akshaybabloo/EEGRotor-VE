@@ -1,6 +1,6 @@
-# EEGRotor Unity 4.6.1
+# EEGRotor-VE
 
-Load the environment.
+An Virtual Environment for Brain Computer Interface.
 
 ## To build the game:
 
